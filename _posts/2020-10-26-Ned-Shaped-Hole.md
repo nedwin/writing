@@ -3,13 +3,6 @@ layout: post
 title: The Ned Shaped Hole
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
-
-
 I’ve worn a lot of different hats in my professional career. Mostly [figuratively](https://medium.com/@nedwin/19-things-ive-done-28bf47fc3165), but also [literally](https://pretendstore.co/products/spreadsheets-hat).
 
 As an [enthusiast](https://www.enneagraminstitute.com/type-7), someone with [range](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214484), it’s easy to find the things I can do well, it's harder to find the things I should be truly great at.
